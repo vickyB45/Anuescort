@@ -1,0 +1,26 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/* Swiper classess */
+@import "swiper/css";
+@import "swiper/css/pagination";
+
+
+/* Swiper Pagination Custom */
+.swiper-pagination-bullet {
+  background: #a78bfa !important; /* Tailwind purple-400 */
+  opacity: 1;
+}
+
+.swiper-pagination-bullet-active {
+  background: #7c3aed !important; /* Tailwind purple-600 (active state) */
+}
+
+
+
+body{
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 398;
+  font-style: normal;
+}
