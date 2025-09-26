@@ -5,13 +5,13 @@ export default function AboutService() {
   const services = [
     {
       icon: "👩‍🦰",
-      title: "High Profile Call Girls in Delhi at Low Price",
-      desc: "Get High Profile Delhi Call Girls at your desired location's. Our Escorts provide a Top Class Escorts Service in 5 star hotels at reasonable prices.",
+      title: "High Profile Call Girls in Udaipur at Low Price",
+      desc: "Get High Profile Udaipur Call Girls at your desired location's. Our Escorts provide a Top Class Escorts Service in 5 star hotels at reasonable prices.",
     },
     {
       icon: "💃",
       title: "18+ Call Girls Service Available 24*7",
-      desc: "Enjoy Your Night with Hot and sexy 18+ age Call Girls at your dream place. Our Mature Delhi Escort are very talented and well manner.",
+      desc: "Enjoy Your Night with Hot and sexy 18+ age Call Girls at your dream place. Our Mature Udaipur Escort are very talented and well manner.",
     },
     {
       icon: "🌙",
@@ -20,8 +20,8 @@ export default function AboutService() {
     },
     {
       icon: "✈️",
-      title: "Air Hostess Escorts in Delhi",
-      desc: "Delhi Air hostess escorts may offer companionship, entertainment, and conversation to clients during various social or private engagements.",
+      title: "Air Hostess Escorts in Udaipur",
+      desc: "Udaipur Air hostess escorts may offer companionship, entertainment, and conversation to clients during various social or private engagements.",
     },
   ];
 
@@ -39,18 +39,18 @@ export default function AboutService() {
             About Anuescort
           </h4>
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            Need Escorts Service in Delhi?
+            Need Escorts Service in Udaipur?
           </h2>
           <p className="text-gray-200 leading-relaxed mb-6">
-            Are you seeking youthful, gorgeous Escorts in Delhi? We asked this
+            Are you seeking youthful, gorgeous Escorts in Udaipur? We asked this
             because we're eligible for conducting high-profile and beautiful
-            Delhi Escorts for your enjoyment. Enjoy now one of the most trending
-            Call Girl Service in Delhi commonly known as Sexy Sonal.
+            Anuescort Escorts for your enjoyment. Enjoy now one of the most trending
+            Call Girl Service in Anuescort commonly known as Udaipur.
           </p>
           <p className="text-gray-200 leading-relaxed mb-6">
             However, so your time has started If you have been alone for a long
             time. We're then to introduce the No.1 Escorts Service Provider in
-            Delhi for you.
+            Udaipur for you.
           </p>
           <a   href="https://wa.me/919996365001"
       target="_blank" className="cursor-pointer border border-white px-6 py-2 rounded-lg font-medium hover:bg-white hover:text-purple-600 transition">

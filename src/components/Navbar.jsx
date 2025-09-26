@@ -149,7 +149,7 @@ export default function Navbar() {
 
           {/* CTA Button */}
           <a
-            href="tel:+919654416731"
+            href="tel:+917690000848"
             className="bg-purple-600 hover:bg-purple-700 text-white px-4 py-2 rounded-lg text-center transition"
           >
             +91 7690000848

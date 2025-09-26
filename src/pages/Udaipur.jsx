@@ -47,14 +47,14 @@ Whether you are in a relationship or happily married, it happens sometimes that 
   return (
     <div className="bg-white text-gray-800">
       {/* Hero */}
-      <section className="relative py-20 text-center ">
+      <section className="relative py-8 text-center ">
         <motion.div
           initial="hidden"
           whileInView="visible"
           viewport={{ once: true }}
           variants={fadeUp}
           transition={{ duration: 0.8 }}
-          className="max-w-4xl mx-auto px-6"
+          className="max-w-4xl mx-auto md:px-6"
         >
           <h1 className="text-4xl md:text-6xl font-bold mb-4">
             Udaipur Escorts Service
@@ -66,7 +66,7 @@ Whether you are in a relationship or happily married, it happens sometimes that 
       </section>
 
       {/* Content Sections */}
-      <section className="max-w-6xl mx-auto py-16 md:px-6 px-0 space-y-16">
+      <section className="max-w-6xl mx-auto pb-16 md:px-6 px-0 space-y-16">
         {sections.map((section, idx) => (
           <motion.div
             key={idx}

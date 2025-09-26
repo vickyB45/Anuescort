@@ -1,17 +1,25 @@
 import { Facebook, Instagram, Twitter, Linkedin } from "lucide-react";
 import { FaWhatsapp } from "react-icons/fa";
+import { IoMdCall } from "react-icons/io";
+
 
 export default function Footer() {
   return (
     <footer className="relative bg-gradient-to-r from-black via-gray-900 to-purple-900 text-gray-300 pt-16">
-     <a
-      href="https://wa.me/919996365001"
-      target="_blank"
-      rel="noopener noreferrer"
-      className="fixed bottom-6 right-6 bg-green-500 text-white p-3 rounded-full shadow-lg hover:bg-green-600 transition z-50"
-    >
-      <FaWhatsapp size={32} />
+    
+      <div className="fixed bottom-0 right-0 w-full flex z-[599] "> 
+        <a  href="https://wa.me/919996365001"
+      target="_blank" className="bg-green-500 py-2 w-[50%] flex justify-center items-center">
+         
+     
+    
+      <FaWhatsapp className="text-2xl" />
       </a>
+       <a  href="tel:+919996365001" className="bg-blue-500 py-2 w-[50%] flex justify-center items-center">
+  
+    <IoMdCall  className="text-white text-2xl" />
+</a>
+         </div>
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-4 gap-10">
 
         {/* Brand */}
@@ -30,7 +38,6 @@ export default function Footer() {
             <li><a href="/" className="hover:text-purple-400 transition">Home</a></li>
             <li><a href="/about" className="hover:text-purple-400 transition">About</a></li>
             <li><a href="/gallery" className="hover:text-purple-400 transition">Gallery</a></li>
-            <li><a href="/service" className="hover:text-purple-400 transition">Service</a></li>
           </ul>
         </div>
 
